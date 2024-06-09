@@ -1,8 +1,5 @@
 # Singapore-Resale-Flat-Prices-Predicting
 
-ML Regression models: 
-
-
 'algorithm': 'DecisionTreeRegressor', 
 'mae_test': 0.06512458455702377, 
 'mse_test': 0.009207047593428178, 
